@@ -8,7 +8,7 @@ An unofficial client of WhatsApp, running on top of Node Webkit.
 
 ##### Why? 
 
-I have found [this really cool project](https://github.com/haskellcamargo/skype-unofficial-client), so I decided to do the same for wpp .
+I have found [this really cool project](https://github.com/haskellcamargo/skype-unofficial-client), so I decided to do the same for wpp.
 
 ##### Installation
 
