@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /opt/whatsapp_unofficial_client/
+./whatsapp

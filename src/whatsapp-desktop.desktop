@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=WhatsApp
+Comment=An unofficial client of WhatsApp for Linux, running on top of Node Webkit.
+Icon=/opt/whatsapp_unofficial_client/whatsapp.png
+Exec=/opt/whatsapp_unofficial_client/whatsapp %U
+NoDisplay=false
+Categories=Network;
+StartupNotify=false
+Terminal=false
+

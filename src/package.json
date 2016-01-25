@@ -1,0 +1,21 @@
+{
+  "name": "WhatsApp for Linux",
+  "version": "0.0.2",
+  "main": "whatsapp.html",
+  "description": "WhatsApp client built on top of node webkit.",
+  "user-agent": "Mozilla/5.0 (X11; CrOS x86_64 7520.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.4 Safari/537.36",
+  "keywords": ["WhatsApp", "linux", "web"],
+  "window": {
+    "title": "WhatsApp",
+    "icon": "Whatsapp.png",
+    "toolbar": false,
+    "width": 800,
+    "height": 600,
+    "position": "center",
+    "min_width": 400,
+    "min_height": 200
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
