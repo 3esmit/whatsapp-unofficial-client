@@ -19,10 +19,6 @@ unix-based systems.
 
 `sudo make linux_x86` or `sudo make linux_x64`
 
-For Arch Linux users, this application is currently available on [AUR](https://aur.archlinux.org/packages/whatsapp-desktop-bin/). 
-
-`yaourt whatsapp-desktop-bin `
-
 Run the application by `/opt/whatsapp_unofficial_client/whatsapp` or through
 searching for "WhatsApp" in the main menu.
 
